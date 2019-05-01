@@ -1,0 +1,25 @@
+
+body{
+  margin:0;
+  padding:0;
+  background: #C4FCEF;
+}
+.container{
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+
+}
+button{
+  width: 600px;
+  height: 100px;
+  background: #6a89cc;
+  border: none;
+  cursor: pointer;
+  color:#fff;
+  font-family: "montserrat";
+  font-size: 50px;
+
+
+}
